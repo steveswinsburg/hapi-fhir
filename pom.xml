@@ -2125,7 +2125,7 @@
 			<dependency>
 				<groupId>org.elasticsearch</groupId>
 				<artifactId>elasticsearch</artifactId>
-				<version>8.9.2</version>
+				<version>8.19.8</version>
 			</dependency>
 			<dependency>
 				<groupId>org.hibernate.search</groupId>
